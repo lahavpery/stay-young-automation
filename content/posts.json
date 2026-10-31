@@ -1,0 +1,110 @@
+[
+  {
+    "id": "sy-001",
+    "title": "A moment for yourself",
+    "text": "Small habits, steady routine. Make room for a simple daily self-care ritual. Explore Stay Young.",
+    "audience": "all",
+    "asset": "content/assets/routine.png",
+    "alt": "Original skincare bottle illustration: A moment for yourself",
+    "imageUrl": null
+  },
+  {
+    "id": "sy-002",
+    "title": "Self-care for men",
+    "text": "Self-care belongs in every man\u2019s routine. Start with time for yourself. Explore Stay Young.",
+    "audience": "men",
+    "asset": "content/assets/men.png",
+    "alt": "Original self-care mirror illustration: Self-care for men",
+    "imageUrl": null
+  },
+  {
+    "id": "sy-003",
+    "title": "Self-care for women",
+    "text": "Your self-care routine should fit your life. Make a little space for yourself. Explore Stay Young.",
+    "audience": "women",
+    "asset": "content/assets/women.png",
+    "alt": "Original self-care mirror illustration: Self-care for women",
+    "imageUrl": null
+  },
+  {
+    "id": "sy-004",
+    "title": "Color your everyday",
+    "text": "Add variety to your plate and a moment of care to your day. Explore Stay Young.",
+    "audience": "all",
+    "asset": "content/assets/nutrition.png",
+    "alt": "Original colorful food plate illustration: Color your everyday",
+    "imageUrl": null
+  },
+  {
+    "id": "sy-005",
+    "title": "Slow down tonight",
+    "text": "Give your evening a gentler pace. A simple wind-down ritual can be a place to start. Explore Stay Young.",
+    "audience": "all",
+    "asset": "content/assets/rest.png",
+    "alt": "Original moon and stars illustration: Slow down tonight",
+    "imageUrl": null
+  },
+  {
+    "id": "sy-006",
+    "title": "Move at your pace",
+    "text": "Find a way to move that you enjoy, at your own pace. Explore Stay Young.",
+    "audience": "all",
+    "asset": "content/assets/movement.png",
+    "alt": "Original walking shoe illustration: Move at your pace",
+    "imageUrl": null
+  },
+  {
+    "id": "sy-007",
+    "title": "Start small",
+    "text": "A thoughtful routine can start small. What is one habit you enjoy making time for? Explore Stay Young.",
+    "audience": "all",
+    "asset": "content/assets/simplicity.png",
+    "alt": "Original skincare bottle illustration: Start small",
+    "imageUrl": null
+  },
+  {
+    "id": "sy-008",
+    "title": "Make room for care",
+    "text": "Choose a self-care habit that fits your everyday life. Explore Stay Young.",
+    "audience": "all",
+    "asset": "content/assets/consistency.png",
+    "alt": "Original glass of water illustration: Make room for care",
+    "imageUrl": null
+  },
+  {
+    "id": "sy-009",
+    "title": "Your daily reset",
+    "text": "Take a quiet moment to consider what feeling cared for means to you. Explore Stay Young.",
+    "audience": "all",
+    "asset": "content/assets/reset.png",
+    "alt": "Original botanical leaf illustration: Your daily reset",
+    "imageUrl": null
+  },
+  {
+    "id": "sy-010",
+    "title": "Time for yourself",
+    "text": "Make a little room for yourself this weekend. Explore Stay Young.",
+    "audience": "all",
+    "asset": "content/assets/weekend.png",
+    "alt": "Original open book illustration: Time for yourself",
+    "imageUrl": null
+  },
+  {
+    "id": "sy-011",
+    "title": "A mindful morning",
+    "text": "Start your morning with a moment of intention. Explore Stay Young.",
+    "audience": "all",
+    "asset": "content/assets/morning.png",
+    "alt": "Original morning sun illustration: A mindful morning",
+    "imageUrl": null
+  },
+  {
+    "id": "sy-012",
+    "title": "Find your balance",
+    "text": "A personal routine can include food, movement, rest, and time for yourself. Explore Stay Young.",
+    "audience": "all",
+    "asset": "content/assets/balance.png",
+    "alt": "Original colorful food plate illustration: Find your balance",
+    "imageUrl": null
+  }
+]

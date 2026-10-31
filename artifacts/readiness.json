@@ -1,0 +1,28 @@
+{
+  "publishingEnabled": false,
+  "firstLaunchApproved": false,
+  "missingBindings": {
+    "facebook": [
+      "FACEBOOK_PAGE_ID",
+      "FACEBOOK_PAGE_TOKEN",
+      "META_GRAPH_VERSION"
+    ],
+    "pinterest": [
+      "PINTEREST_BOARD_ID",
+      "PINTEREST_TOKEN"
+    ],
+    "threads": [
+      "THREADS_ACCOUNT_ID",
+      "THREADS_TOKEN",
+      "THREADS_GRAPH_VERSION"
+    ],
+    "bluesky": [
+      "BLUESKY_HANDLE",
+      "BLUESKY_APP_PASSWORD"
+    ]
+  },
+  "imagesWithoutPublicUrl": [],
+  "cloudStateReady": false,
+  "publicRepository": false,
+  "websiteChangesRequired": false
+}

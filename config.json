@@ -1,0 +1,30 @@
+{
+  "enabled": false,
+  "landingUrl": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
+  "repository": "lahavpery/stay-young-automation",
+  "branch": "main",
+  "stateBranch": "automation-state",
+  "assetBaseUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/",
+  "platforms": [
+    "facebook",
+    "pinterest",
+    "threads",
+    "bluesky"
+  ],
+  "schedule": {
+    "timeZone": "America/New_York",
+    "weekdays": [
+      "Mon",
+      "Wed",
+      "Fri"
+    ],
+    "hour": 12,
+    "minute": 15
+  },
+  "minimumHoursBetweenPosts": 42,
+  "optionalPlatforms": [
+    "mastodon",
+    "instagram"
+  ],
+  "websiteAccessForbidden": true
+}

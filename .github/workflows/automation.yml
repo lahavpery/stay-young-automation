@@ -1,0 +1,76 @@
+name: Stay Young social publisher
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: Dry run or approved publishing
+        type: choice
+        options: [dry-run, publish]
+        default: dry-run
+  push:
+    branches: [main]
+  schedule:
+    # 12:15 New York: 16:15 UTC during daylight time, 17:15 UTC in standard time.
+    # Runtime timezone and persistent state prevent a second post in the other slot.
+    - cron: '15 16,17 * * 1,3,5'
+permissions:
+  contents: read
+concurrency:
+  group: stay-young-publisher
+  cancel-in-progress: false
+jobs:
+  validate:
+    # Standard public-repository Linux runners are free. Never fall back to paid runners.
+    if: github.event.repository.private == false
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - run: npm ci --ignore-scripts
+      - run: npm test
+      - run: npm run plan
+      - name: Preview summary
+        run: |
+          echo '### Stay Young: dry run completed' >> "$GITHUB_STEP_SUMMARY"
+          echo 'No website requests. No social publishing in this job.' >> "$GITHUB_STEP_SUMMARY"
+  publish:
+    needs: validate
+    if: >-
+      vars.LIVE_AUTOMATION_ENABLED == 'yes' &&
+      vars.FIRST_LAUNCH_APPROVED == 'yes' &&
+      (github.event_name == 'schedule' ||
+      (github.event_name == 'workflow_dispatch' && inputs.mode == 'publish'))
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    env:
+      GITHUB_TOKEN: ${{ github.token }}
+      GITHUB_REPOSITORY_VISIBILITY: ${{ github.event.repository.visibility }}
+      FIRST_LAUNCH_APPROVED: ${{ vars.FIRST_LAUNCH_APPROVED }}
+      META_GRAPH_VERSION: ${{ vars.META_GRAPH_VERSION }}
+      THREADS_GRAPH_VERSION: ${{ vars.THREADS_GRAPH_VERSION }}
+      FACEBOOK_PAGE_ID: ${{ vars.FACEBOOK_PAGE_ID }}
+      FACEBOOK_PAGE_TOKEN: ${{ secrets.FACEBOOK_PAGE_TOKEN }}
+      INSTAGRAM_ACCOUNT_ID: ${{ vars.INSTAGRAM_ACCOUNT_ID }}
+      INSTAGRAM_TOKEN: ${{ secrets.INSTAGRAM_TOKEN }}
+      THREADS_ACCOUNT_ID: ${{ vars.THREADS_ACCOUNT_ID }}
+      THREADS_TOKEN: ${{ secrets.THREADS_TOKEN }}
+      PINTEREST_BOARD_ID: ${{ vars.PINTEREST_BOARD_ID }}
+      PINTEREST_TOKEN: ${{ secrets.PINTEREST_TOKEN }}
+      BLUESKY_HANDLE: ${{ vars.BLUESKY_HANDLE }}
+      BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+      MASTODON_BASE_URL: ${{ vars.MASTODON_BASE_URL }}
+      MASTODON_TOKEN: ${{ secrets.MASTODON_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - run: npm ci --ignore-scripts
+      - run: npm run publish
+# Approval is recorded once using FIRST_LAUNCH_APPROVED, not requested per post.
+# No site, email, chatbot, CRM or payment-system integration exists.

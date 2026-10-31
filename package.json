@@ -1,0 +1,15 @@
+{
+  "name": "stay-young-social-publisher",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "test": "node test/publisher.test.js",
+    "plan": "node src/cli.js plan",
+    "preflight": "node src/cli.js preflight",
+    "publish": "node src/cli.js publish"
+  }
+}

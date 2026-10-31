@@ -23,7 +23,7 @@ export async function publish(p,env=process.env){
  }
  if(p.platform==='bluesky'){
  const session=await request('https://bsky.social/xrpc/com.atproto.server.createSession',{body:{identifier:required(env,'BLUESKY_HANDLE'),password:required(env,'BLUESKY_APP_PASSWORD')}});
- const img=await fetch(image(p),{signal:AbortSignal.timeout(15000)});if(!img.ok)throw Error('Image download failed');const bytes=await img.arrayBuffer();if(bytes.byteLength>1000000)throw Error('Bluesky image exceeds 1MB');
+ const img=await fetch(image(p),{redirect:'error',signal:AbortSignal.timeout(15000)});if(!img.ok)throw Error('Image download failed');const bytes=await img.arrayBuffer();if(bytes.byteLength>1000000)throw Error('Bluesky image exceeds 1MB');
  const upload=await fetch('https://bsky.social/xrpc/com.atproto.repo.uploadBlob',{method:'POST',headers:{Authorization:`Bearer ${session.accessJwt}`,'Content-Type':img.headers.get('content-type')},body:bytes,signal:AbortSignal.timeout(30000)});if(!upload.ok)throw Error(`Bluesky image upload failed (${upload.status})`);const blob=await upload.json();
  const start=p.text.indexOf(p.link);const facets=start<0?[]:[{index:{byteStart:Buffer.byteLength(p.text.slice(0,start)),byteEnd:Buffer.byteLength(p.text.slice(0,start+p.link.length))},features:[{$type:'app.bsky.richtext.facet#link',uri:p.link}]}];
  return request('https://bsky.social/xrpc/com.atproto.repo.createRecord',{token:session.accessJwt,body:{repo:session.did,collection:'app.bsky.feed.post',record:{$type:'app.bsky.feed.post',text:p.text,facets,createdAt:new Date().toISOString(),embed:{$type:'app.bsky.embed.images',images:[{alt:p.alt,image:blob.blob}]}}}});

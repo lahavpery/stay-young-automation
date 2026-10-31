@@ -10,7 +10,7 @@ Node 24: `npm ci --ignore-scripts`, `npm test`, `npm run plan`, `npm run preflig
 
 48 drafts cover Facebook Pages, Pinterest, Threads and Bluesky. Optional Instagram and Mastodon adapters add 24 drafts if enabled. Twelve original commercial-use PNG illustrations cover skincare, food, movement, rest and daily routines. All images are local assets; public image URLs are derived from this repository’s main branch. Hosting is not assumed ready until checked against the exact original image bytes.
 
-Publishing defaults to disabled. Both a code gate and a one-time owner-approval variable are required. Actual account connections, GitHub publication, remote image availability and real provider authorization must be verified before activation. Mocked API tests are not proof of a connected account.
+Publishing defaults to disabled. Both a code gate and a one-time owner-approval variable are required. The project has been pushed to GitHub main and all 12 hosted images matched the original files. Actual account connections, cloud workflow execution and real provider authorization must still be verified before activation. Mocked API tests are not proof of a connected account.
 
 ## Cloud and safety
 

@@ -18,7 +18,7 @@ Do not ask for repeated per-post confirmations after that approval. If a connect
 
 ## Cloud storage and images
 
-GitHub must host a public code/assets repository for the free standard-runner route. Do not change visibility without owner authorization. This code derives original PNG URLs at raw.githubusercontent.com; it verifies MIME type, file size and exact local-image bytes before publication. No public hosting was verified locally. State branch data contains publication identifiers and fingerprints, never provider credentials. GitHub’s generated runtime token writes durable state; no separate GitHub token is requested from the owner.
+GitHub must host a public code/assets repository for the free standard-runner route. Do not change visibility without owner authorization. This code derives original PNG URLs at raw.githubusercontent.com; it verifies MIME type, file size and exact local-image bytes before publication. All twelve hosted PNGs were retrieved from the configured GitHub image URLs and matched byte-for-byte in this environment; independent provider retrieval is still unverified. State branch data contains publication identifiers and fingerprints, never provider credentials. GitHub’s generated runtime token writes durable state; no separate GitHub token is requested from the owner.
 
 ## Review and failure handling
 
@@ -28,4 +28,4 @@ There is no analytics tracking or attribution system. The fixed link is never ch
 
 ## Validation boundaries
 
-The local suite verifies all default posting paths with mocked provider responses, US scheduling across DST, one-time approval, durable reservation restart/conflict behavior, link integrity, content limits, safety claims and original-image integrity. It does not prove provider app review, remote permissions, OAuth/token validity, cloud execution or actual publication. Those remain unverified until the required secure account connections are available. No real post has been published.
+The local suite verifies all default posting paths with mocked provider responses, US scheduling across DST, one-time approval, durable reservation restart/conflict behavior, link integrity, content limits, safety claims and original-image integrity. It does not prove provider app review, remote permissions, OAuth/token validity, cloud execution or actual social publication. Those remain unverified until the required secure account connections are available. No real post has been published.

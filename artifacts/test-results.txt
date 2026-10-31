@@ -2,33 +2,35 @@
 > stay-young-social-publisher@1.0.0 test
 > node test/publisher.test.js
 
-✔ 48 drafts have original PNGs, exact unmodified destination and inclusive audiences (15.440789ms)
-✔ platform-specific hashtags and optional channels fit limits (0.839426ms)
-✔ rejects unverified guarantees and age claims (2.141324ms)
-✔ US schedule respects both DST offsets and prevents the duplicate UTC slot (4.998578ms)
-✔ disabled publish command fails before any external request (35.70939ms)
-✔ stable identity prevents republishing the same editorial item after tracking/hosting changes (2.563414ms)
-✔ state persists reservation and confirmed result across worker restarts (2.027463ms)
-✔ ambiguous outcome blocks every new post on the same account after cooldown (0.855851ms)
-✔ optimistic SHA conflicts fail closed rather than overwrite state (0.753387ms)
-✔ same text/image fingerprint cannot be recycled under a different id (0.638054ms)
-✔ runner performs image check, durable reservation, publish, and confirmation in order (2.878396ms)
-✔ network failure after reservation cannot trigger automatic duplicate retry (1.716498ms)
-✔ schedule gate avoids every network call outside the approved US window (0.209363ms)
-✔ budget gate disallows private or unknown repository runner billing (0.176054ms)
-✔ image preflight permits original GitHub raster assets and never requests the landing site (18.33977ms)
-✔ official Facebook photo adapter includes exact destination link (0.984943ms)
-✔ official Pinterest adapter includes exact link, image, title and descriptive alternative text (0.575531ms)
-✔ official Threads waits for processed media before publishing (0.629321ms)
-✔ Bluesky uploads original image and uses a byte-correct clickable landing link facet (1.882907ms)
-✔ Mastodon optional adapter uploads art and publishes with exact link (1.253105ms)
-✔ provider authorization errors redact token and response body (0.538986ms)
-✔ cloud workflow has one-time approval gates, no website integration, and no email/chat processes (0.268702ms)
-ℹ tests 22
+✔ 48 drafts have original PNGs, exact unmodified destination and inclusive audiences (25.175753ms)
+✔ platform-specific hashtags and optional channels fit limits (1.181018ms)
+✔ rejects unverified guarantees and age claims (5.515155ms)
+✔ US schedule respects both DST offsets and prevents the duplicate UTC slot (6.346328ms)
+✔ disabled publish command fails before any external request (77.000075ms)
+✔ stable identity prevents republishing the same editorial item after tracking/hosting changes (2.961871ms)
+✔ state persists reservation and confirmed result across worker restarts (2.271681ms)
+✔ ambiguous outcome blocks every new post on the same account after cooldown (0.871021ms)
+✔ optimistic SHA conflicts fail closed rather than overwrite state (1.160658ms)
+✔ same text/image fingerprint cannot be recycled under a different id (0.654336ms)
+✔ runner performs image check, durable reservation, publish, and confirmation in order (3.906462ms)
+✔ network failure after reservation cannot trigger automatic duplicate retry (1.783005ms)
+✔ schedule gate avoids every network call outside the approved US window (0.321174ms)
+✔ budget gate disallows private or unknown repository runner billing (0.315636ms)
+✔ image preflight permits original GitHub raster assets and never requests the landing site (20.118707ms)
+✔ official Facebook photo adapter includes exact destination link (1.000477ms)
+✔ official Pinterest adapter includes exact link, image, title and descriptive alternative text (0.618732ms)
+✔ official Threads waits for processed media before publishing (0.636178ms)
+✔ Bluesky uploads original image and uses a byte-correct clickable landing link facet (1.886201ms)
+✔ Mastodon optional adapter uploads art and publishes with exact link (1.289542ms)
+✔ provider authorization errors redact token and response body (0.303978ms)
+✔ cloud workflow has one-time approval gates, no website integration, and no email/chat processes (0.28554ms)
+✔ fixed destination cannot be replaced or decorated with tracking parameters (1.484104ms)
+✔ optional Instagram adapter sends the fixed link in the caption (2.705845ms)
+ℹ tests 24
 ℹ suites 0
-ℹ pass 22
+ℹ pass 24
 ℹ fail 0
 ℹ cancelled 0
 ℹ skipped 0
 ℹ todo 0
-ℹ duration_ms 103.567148
+ℹ duration_ms 171.232442

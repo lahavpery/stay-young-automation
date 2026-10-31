@@ -1,864 +1,1120 @@
 [
   {
     "id": "sy-001",
-    "title": "A moment for yourself",
-    "text": "Make room for a simple self-care ritual.\nWhat is one habit you enjoy? Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Nutrition and everyday habits",
+    "text": "Explore Stay Young: a digital course sharing its creator’s nutrition, sleep, fitness, and everyday lifestyle routines.\nWhich topic would you explore first?\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #NutritionHabits",
     "audience": "all",
     "asset": "content/assets/routine.png",
     "alt": "Original skincare bottle illustration: A moment for yourself",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/routine.png",
+    "sourceFactIds": [
+      "nutrition",
+      "sleep",
+      "fitness",
+      "lifestyle"
+    ],
     "platform": "facebook",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "nutrition",
+      "sleep",
+      "fitness",
+      "lifestyle"
     ],
     "scheduledAt": "2026-11-02T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-002",
-    "title": "Self-care for men",
-    "text": "Self-care belongs in every man’s routine.\nWhat is one habit you enjoy? Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Everyday wellness for men",
+    "text": "For men exploring everyday wellness: Stay Young shares its creator’s nutrition, fitness, and lifestyle routines.\nWhich topic would you explore first?\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #NutritionHabits",
     "audience": "men",
     "asset": "content/assets/men.png",
     "alt": "Original self-care mirror illustration: Self-care for men",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/men.png",
+    "sourceFactIds": [
+      "nutrition",
+      "fitness",
+      "lifestyle"
+    ],
     "platform": "facebook",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "nutrition",
+      "fitness",
+      "lifestyle"
     ],
     "scheduledAt": "2026-11-04T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-003",
-    "title": "Self-care for women",
-    "text": "Self-care that fits your life.\nWhat is one habit you enjoy? Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Everyday wellness for women",
+    "text": "For women exploring everyday wellness: Stay Young shares its creator’s nutrition, sleep, and lifestyle routines.\nWhich topic would you explore first?\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #NutritionHabits",
     "audience": "women",
     "asset": "content/assets/women.png",
     "alt": "Original self-care mirror illustration: Self-care for women",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/women.png",
+    "sourceFactIds": [
+      "nutrition",
+      "sleep",
+      "lifestyle"
+    ],
     "platform": "facebook",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "nutrition",
+      "sleep",
+      "lifestyle"
     ],
     "scheduledAt": "2026-11-06T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-004",
-    "title": "Color your everyday",
-    "text": "Bring more variety to your everyday plate.\nWhat is one habit you enjoy? Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Recipes and nutrition routines",
+    "text": "Stay Young includes recipes, nutrition topics, and a look at the foods its creator includes in a daily routine.\nWhich topic would you explore first?\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #RecipeIdeas",
     "audience": "all",
     "asset": "content/assets/nutrition.png",
     "alt": "Original colorful food plate illustration: Color your everyday",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/nutrition.png",
+    "sourceFactIds": [
+      "recipes",
+      "nutrition"
+    ],
     "platform": "facebook",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "food variety"
+      "Stay Young",
+      "digital lifestyle course",
+      "recipes",
+      "nutrition"
     ],
     "scheduledAt": "2026-11-09T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-005",
-    "title": "Slow down tonight",
-    "text": "Make room for a gentler evening routine.\nWhat is one habit you enjoy? Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Sleep and evening routines",
+    "text": "Curious about evening habits? Stay Young includes sleep-related topics and the creator’s personal routines.\nWhich topic would you explore first?\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #SleepRoutine",
     "audience": "all",
     "asset": "content/assets/rest.png",
     "alt": "Original moon and stars illustration: Slow down tonight",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/rest.png",
+    "sourceFactIds": [
+      "sleep",
+      "lifestyle"
+    ],
     "platform": "facebook",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "sleep",
+      "lifestyle"
     ],
     "scheduledAt": "2026-11-11T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-006",
-    "title": "Move at your pace",
-    "text": "Move at your own pace. Choose what you enjoy.\nWhat is one habit you enjoy? Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Fitness and lifestyle insights",
+    "text": "Explore the fitness and lifestyle insights inside Stay Young, drawn from its creator’s personal experience.\nWhich topic would you explore first?\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #EverydayFitness",
     "audience": "all",
     "asset": "content/assets/movement.png",
     "alt": "Original walking shoe illustration: Move at your pace",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/movement.png",
+    "sourceFactIds": [
+      "fitness",
+      "lifestyle"
+    ],
     "platform": "facebook",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "movement"
+      "Stay Young",
+      "digital lifestyle course",
+      "fitness",
+      "lifestyle"
     ],
     "scheduledAt": "2026-11-13T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-007",
-    "title": "Start small",
-    "text": "A thoughtful self-care routine can start small.\nWhat is one habit you enjoy? Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Learn at your own pace",
+    "text": "Stay Young offers short lessons and clear guides you can explore at your own pace. Discover the course.\nWhich topic would you explore first?\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #OnlineLearning",
     "audience": "all",
     "asset": "content/assets/simplicity.png",
     "alt": "Original skincare bottle illustration: Start small",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/simplicity.png",
+    "sourceFactIds": [
+      "format"
+    ],
     "platform": "facebook",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "format"
     ],
     "scheduledAt": "2026-11-16T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-008",
-    "title": "Make room for care",
-    "text": "Choose habits that fit your everyday life.\nWhat is one habit you enjoy? Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "A personal approach to daily habits",
+    "text": "Stay Young shares its creator’s approach to small daily habits. Explore the routine and decide what interests you.\nWhich topic would you explore first?\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #DailyHabits",
     "audience": "all",
     "asset": "content/assets/consistency.png",
     "alt": "Original glass of water illustration: Make room for care",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/consistency.png",
+    "sourceFactIds": [
+      "lifestyle"
+    ],
     "platform": "facebook",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "lifestyle"
     ],
     "scheduledAt": "2026-11-18T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-009",
-    "title": "Your daily reset",
-    "text": "Take a moment for yourself today.\nWhat is one habit you enjoy? Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Mindset and daily routines",
+    "text": "Mindset is one of the topics inside Stay Young, alongside nutrition, sleep, and daily lifestyle routines.\nWhich topic would you explore first?\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #DailyMindset",
     "audience": "all",
     "asset": "content/assets/reset.png",
     "alt": "Original botanical leaf illustration: Your daily reset",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/reset.png",
+    "sourceFactIds": [
+      "mindset",
+      "nutrition",
+      "sleep"
+    ],
     "platform": "facebook",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "mindset",
+      "nutrition",
+      "sleep"
     ],
     "scheduledAt": "2026-11-20T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-010",
-    "title": "Time for yourself",
-    "text": "Make time for yourself this week.\nWhat is one habit you enjoy? Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Sweets, snacks, and drinks",
+    "text": "Interested in recipe ideas? Stay Young includes recipes for sweets, snacks, and drinks alongside its lifestyle content.\nWhich topic would you explore first?\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #RecipeIdeas",
     "audience": "all",
     "asset": "content/assets/weekend.png",
     "alt": "Original open book illustration: Time for yourself",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/weekend.png",
+    "sourceFactIds": [
+      "recipes"
+    ],
     "platform": "facebook",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "recipes"
     ],
     "scheduledAt": "2026-11-23T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-011",
-    "title": "A mindful morning",
-    "text": "Start your morning with intention.\nWhat is one habit you enjoy? Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "A look at the creator’s daily routine",
+    "text": "Stay Young shares a look at its creator’s routines from morning to night, including nutrition and everyday habits.\nWhich topic would you explore first?\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #DailyHabits",
     "audience": "all",
     "asset": "content/assets/morning.png",
     "alt": "Original morning sun illustration: A mindful morning",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/morning.png",
+    "sourceFactIds": [
+      "daily-routine",
+      "nutrition"
+    ],
     "platform": "facebook",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "daily-routine",
+      "nutrition"
     ],
     "scheduledAt": "2026-11-25T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-012",
-    "title": "Find your balance",
-    "text": "Make room for food, movement, rest, and care.\nWhat is one habit you enjoy? Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Digital access on your schedule",
+    "text": "Explore Stay Young on mobile, computer, or tablet, with lifetime access described in the course offer.\nWhich topic would you explore first?\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #OnlineLearning",
     "audience": "all",
     "asset": "content/assets/balance.png",
     "alt": "Original colorful food plate illustration: Find your balance",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/balance.png",
+    "sourceFactIds": [
+      "access",
+      "lifetime-access"
+    ],
     "platform": "facebook",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "access",
+      "lifetime-access"
     ],
     "scheduledAt": "2026-11-27T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-001",
-    "title": "Simple Self-Care: A moment for yourself",
-    "text": "Make room for a simple self-care ritual.\nSelf-care, daily routines, everyday wellness. Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #HealthyLifestyle #DailyRoutine",
+    "title": "Stay Young: Nutrition and everyday habits",
+    "text": "Explore Stay Young: a digital course sharing its creator’s nutrition, sleep, fitness, and everyday lifestyle routines.\nNutrition, recipes, and everyday lifestyle learning.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #HealthyLifestyle #NutritionHabits #DailyRoutine",
     "audience": "all",
     "asset": "content/assets/routine.png",
     "alt": "Original skincare bottle illustration: A moment for yourself",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/routine.png",
+    "sourceFactIds": [
+      "nutrition",
+      "sleep",
+      "fitness",
+      "lifestyle"
+    ],
     "platform": "pinterest",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "nutrition",
+      "sleep",
+      "fitness",
+      "lifestyle"
     ],
     "scheduledAt": "2026-11-02T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-002",
-    "title": "Simple Self-Care: Self-care for men",
-    "text": "Self-care belongs in every man’s routine.\nSelf-care, daily routines, everyday wellness. Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #HealthyLifestyle #DailyRoutine",
+    "title": "Stay Young: Everyday wellness for men",
+    "text": "For men exploring everyday wellness: Stay Young shares its creator’s nutrition, fitness, and lifestyle routines.\nNutrition, recipes, and everyday lifestyle learning.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #HealthyLifestyle #NutritionHabits #DailyRoutine",
     "audience": "men",
     "asset": "content/assets/men.png",
     "alt": "Original self-care mirror illustration: Self-care for men",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/men.png",
+    "sourceFactIds": [
+      "nutrition",
+      "fitness",
+      "lifestyle"
+    ],
     "platform": "pinterest",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "nutrition",
+      "fitness",
+      "lifestyle"
     ],
     "scheduledAt": "2026-11-04T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-003",
-    "title": "Simple Self-Care: Self-care for women",
-    "text": "Self-care that fits your life.\nSelf-care, daily routines, everyday wellness. Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #HealthyLifestyle #DailyRoutine",
+    "title": "Stay Young: Everyday wellness for women",
+    "text": "For women exploring everyday wellness: Stay Young shares its creator’s nutrition, sleep, and lifestyle routines.\nNutrition, recipes, and everyday lifestyle learning.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #HealthyLifestyle #NutritionHabits #DailyRoutine",
     "audience": "women",
     "asset": "content/assets/women.png",
     "alt": "Original self-care mirror illustration: Self-care for women",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/women.png",
+    "sourceFactIds": [
+      "nutrition",
+      "sleep",
+      "lifestyle"
+    ],
     "platform": "pinterest",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "nutrition",
+      "sleep",
+      "lifestyle"
     ],
     "scheduledAt": "2026-11-06T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-004",
-    "title": "Simple Self-Care: Color your everyday",
-    "text": "Bring more variety to your everyday plate.\nSelf-care, daily routines, everyday wellness. Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #HealthyLifestyle #FoodVariety",
+    "title": "Stay Young: Recipes and nutrition routines",
+    "text": "Stay Young includes recipes, nutrition topics, and a look at the foods its creator includes in a daily routine.\nNutrition, recipes, and everyday lifestyle learning.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #HealthyLifestyle #RecipeIdeas #FoodVariety",
     "audience": "all",
     "asset": "content/assets/nutrition.png",
     "alt": "Original colorful food plate illustration: Color your everyday",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/nutrition.png",
+    "sourceFactIds": [
+      "recipes",
+      "nutrition"
+    ],
     "platform": "pinterest",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "food variety"
+      "Stay Young",
+      "digital lifestyle course",
+      "recipes",
+      "nutrition"
     ],
     "scheduledAt": "2026-11-09T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-005",
-    "title": "Simple Self-Care: Slow down tonight",
-    "text": "Make room for a gentler evening routine.\nSelf-care, daily routines, everyday wellness. Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #HealthyLifestyle #DailyRoutine",
+    "title": "Stay Young: Sleep and evening routines",
+    "text": "Curious about evening habits? Stay Young includes sleep-related topics and the creator’s personal routines.\nNutrition, recipes, and everyday lifestyle learning.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #HealthyLifestyle #SleepRoutine #DailyRoutine",
     "audience": "all",
     "asset": "content/assets/rest.png",
     "alt": "Original moon and stars illustration: Slow down tonight",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/rest.png",
+    "sourceFactIds": [
+      "sleep",
+      "lifestyle"
+    ],
     "platform": "pinterest",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "sleep",
+      "lifestyle"
     ],
     "scheduledAt": "2026-11-11T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-006",
-    "title": "Simple Self-Care: Move at your pace",
-    "text": "Move at your own pace. Choose what you enjoy.\nSelf-care, daily routines, everyday wellness. Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #HealthyLifestyle #DailyMovement",
+    "title": "Stay Young: Fitness and lifestyle insights",
+    "text": "Explore the fitness and lifestyle insights inside Stay Young, drawn from its creator’s personal experience.\nNutrition, recipes, and everyday lifestyle learning.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #HealthyLifestyle #EverydayFitness #DailyMovement",
     "audience": "all",
     "asset": "content/assets/movement.png",
     "alt": "Original walking shoe illustration: Move at your pace",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/movement.png",
+    "sourceFactIds": [
+      "fitness",
+      "lifestyle"
+    ],
     "platform": "pinterest",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "movement"
+      "Stay Young",
+      "digital lifestyle course",
+      "fitness",
+      "lifestyle"
     ],
     "scheduledAt": "2026-11-13T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-007",
-    "title": "Simple Self-Care: Start small",
-    "text": "A thoughtful self-care routine can start small.\nSelf-care, daily routines, everyday wellness. Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #HealthyLifestyle #DailyRoutine",
+    "title": "Stay Young: Learn at your own pace",
+    "text": "Stay Young offers short lessons and clear guides you can explore at your own pace. Discover the course.\nNutrition, recipes, and everyday lifestyle learning.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #HealthyLifestyle #OnlineLearning #DailyRoutine",
     "audience": "all",
     "asset": "content/assets/simplicity.png",
     "alt": "Original skincare bottle illustration: Start small",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/simplicity.png",
+    "sourceFactIds": [
+      "format"
+    ],
     "platform": "pinterest",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "format"
     ],
     "scheduledAt": "2026-11-16T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-008",
-    "title": "Simple Self-Care: Make room for care",
-    "text": "Choose habits that fit your everyday life.\nSelf-care, daily routines, everyday wellness. Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #HealthyLifestyle #DailyRoutine",
+    "title": "Stay Young: A personal approach to daily habits",
+    "text": "Stay Young shares its creator’s approach to small daily habits. Explore the routine and decide what interests you.\nNutrition, recipes, and everyday lifestyle learning.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #HealthyLifestyle #DailyHabits #DailyRoutine",
     "audience": "all",
     "asset": "content/assets/consistency.png",
     "alt": "Original glass of water illustration: Make room for care",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/consistency.png",
+    "sourceFactIds": [
+      "lifestyle"
+    ],
     "platform": "pinterest",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "lifestyle"
     ],
     "scheduledAt": "2026-11-18T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-009",
-    "title": "Simple Self-Care: Your daily reset",
-    "text": "Take a moment for yourself today.\nSelf-care, daily routines, everyday wellness. Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #HealthyLifestyle #DailyRoutine",
+    "title": "Stay Young: Mindset and daily routines",
+    "text": "Mindset is one of the topics inside Stay Young, alongside nutrition, sleep, and daily lifestyle routines.\nNutrition, recipes, and everyday lifestyle learning.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #HealthyLifestyle #DailyMindset #DailyRoutine",
     "audience": "all",
     "asset": "content/assets/reset.png",
     "alt": "Original botanical leaf illustration: Your daily reset",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/reset.png",
+    "sourceFactIds": [
+      "mindset",
+      "nutrition",
+      "sleep"
+    ],
     "platform": "pinterest",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "mindset",
+      "nutrition",
+      "sleep"
     ],
     "scheduledAt": "2026-11-20T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-010",
-    "title": "Simple Self-Care: Time for yourself",
-    "text": "Make time for yourself this week.\nSelf-care, daily routines, everyday wellness. Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #HealthyLifestyle #DailyRoutine",
+    "title": "Stay Young: Sweets, snacks, and drinks",
+    "text": "Interested in recipe ideas? Stay Young includes recipes for sweets, snacks, and drinks alongside its lifestyle content.\nNutrition, recipes, and everyday lifestyle learning.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #HealthyLifestyle #RecipeIdeas #DailyRoutine",
     "audience": "all",
     "asset": "content/assets/weekend.png",
     "alt": "Original open book illustration: Time for yourself",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/weekend.png",
+    "sourceFactIds": [
+      "recipes"
+    ],
     "platform": "pinterest",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "recipes"
     ],
     "scheduledAt": "2026-11-23T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-011",
-    "title": "Simple Self-Care: A mindful morning",
-    "text": "Start your morning with intention.\nSelf-care, daily routines, everyday wellness. Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #HealthyLifestyle #DailyRoutine",
+    "title": "Stay Young: A look at the creator’s daily routine",
+    "text": "Stay Young shares a look at its creator’s routines from morning to night, including nutrition and everyday habits.\nNutrition, recipes, and everyday lifestyle learning.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #HealthyLifestyle #DailyHabits #DailyRoutine",
     "audience": "all",
     "asset": "content/assets/morning.png",
     "alt": "Original morning sun illustration: A mindful morning",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/morning.png",
+    "sourceFactIds": [
+      "daily-routine",
+      "nutrition"
+    ],
     "platform": "pinterest",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "daily-routine",
+      "nutrition"
     ],
     "scheduledAt": "2026-11-25T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-012",
-    "title": "Simple Self-Care: Find your balance",
-    "text": "Make room for food, movement, rest, and care.\nSelf-care, daily routines, everyday wellness. Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #HealthyLifestyle #DailyRoutine",
+    "title": "Stay Young: Digital access on your schedule",
+    "text": "Explore Stay Young on mobile, computer, or tablet, with lifetime access described in the course offer.\nNutrition, recipes, and everyday lifestyle learning.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #HealthyLifestyle #OnlineLearning #DailyRoutine",
     "audience": "all",
     "asset": "content/assets/balance.png",
     "alt": "Original colorful food plate illustration: Find your balance",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/balance.png",
+    "sourceFactIds": [
+      "access",
+      "lifetime-access"
+    ],
     "platform": "pinterest",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "access",
+      "lifetime-access"
     ],
     "scheduledAt": "2026-11-27T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-001",
-    "title": "A moment for yourself",
-    "text": "Make room for a simple self-care ritual.\nSmall moments count. Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Nutrition and everyday habits",
+    "text": "Explore Stay Young: a digital course sharing its creator’s nutrition, sleep, fitness, and everyday lifestyle routines.\nPersonal experience, not medical advice.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #NutritionHabits",
     "audience": "all",
     "asset": "content/assets/routine.png",
     "alt": "Original skincare bottle illustration: A moment for yourself",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/routine.png",
+    "sourceFactIds": [
+      "nutrition",
+      "sleep",
+      "fitness",
+      "lifestyle"
+    ],
     "platform": "threads",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "nutrition",
+      "sleep",
+      "fitness",
+      "lifestyle"
     ],
     "scheduledAt": "2026-11-02T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-002",
-    "title": "Self-care for men",
-    "text": "Self-care belongs in every man’s routine.\nSmall moments count. Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Everyday wellness for men",
+    "text": "For men exploring everyday wellness: Stay Young shares its creator’s nutrition, fitness, and lifestyle routines.\nPersonal experience, not medical advice.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #NutritionHabits",
     "audience": "men",
     "asset": "content/assets/men.png",
     "alt": "Original self-care mirror illustration: Self-care for men",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/men.png",
+    "sourceFactIds": [
+      "nutrition",
+      "fitness",
+      "lifestyle"
+    ],
     "platform": "threads",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "nutrition",
+      "fitness",
+      "lifestyle"
     ],
     "scheduledAt": "2026-11-04T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-003",
-    "title": "Self-care for women",
-    "text": "Self-care that fits your life.\nSmall moments count. Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Everyday wellness for women",
+    "text": "For women exploring everyday wellness: Stay Young shares its creator’s nutrition, sleep, and lifestyle routines.\nPersonal experience, not medical advice.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #NutritionHabits",
     "audience": "women",
     "asset": "content/assets/women.png",
     "alt": "Original self-care mirror illustration: Self-care for women",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/women.png",
+    "sourceFactIds": [
+      "nutrition",
+      "sleep",
+      "lifestyle"
+    ],
     "platform": "threads",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "nutrition",
+      "sleep",
+      "lifestyle"
     ],
     "scheduledAt": "2026-11-06T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-004",
-    "title": "Color your everyday",
-    "text": "Bring more variety to your everyday plate.\nSmall moments count. Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Recipes and nutrition routines",
+    "text": "Stay Young includes recipes, nutrition topics, and a look at the foods its creator includes in a daily routine.\nPersonal experience, not medical advice.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #RecipeIdeas",
     "audience": "all",
     "asset": "content/assets/nutrition.png",
     "alt": "Original colorful food plate illustration: Color your everyday",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/nutrition.png",
+    "sourceFactIds": [
+      "recipes",
+      "nutrition"
+    ],
     "platform": "threads",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "food variety"
+      "Stay Young",
+      "digital lifestyle course",
+      "recipes",
+      "nutrition"
     ],
     "scheduledAt": "2026-11-09T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-005",
-    "title": "Slow down tonight",
-    "text": "Make room for a gentler evening routine.\nSmall moments count. Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Sleep and evening routines",
+    "text": "Curious about evening habits? Stay Young includes sleep-related topics and the creator’s personal routines.\nPersonal experience, not medical advice.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #SleepRoutine",
     "audience": "all",
     "asset": "content/assets/rest.png",
     "alt": "Original moon and stars illustration: Slow down tonight",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/rest.png",
+    "sourceFactIds": [
+      "sleep",
+      "lifestyle"
+    ],
     "platform": "threads",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "sleep",
+      "lifestyle"
     ],
     "scheduledAt": "2026-11-11T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-006",
-    "title": "Move at your pace",
-    "text": "Move at your own pace. Choose what you enjoy.\nSmall moments count. Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Fitness and lifestyle insights",
+    "text": "Explore the fitness and lifestyle insights inside Stay Young, drawn from its creator’s personal experience.\nPersonal experience, not medical advice.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #EverydayFitness",
     "audience": "all",
     "asset": "content/assets/movement.png",
     "alt": "Original walking shoe illustration: Move at your pace",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/movement.png",
+    "sourceFactIds": [
+      "fitness",
+      "lifestyle"
+    ],
     "platform": "threads",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "movement"
+      "Stay Young",
+      "digital lifestyle course",
+      "fitness",
+      "lifestyle"
     ],
     "scheduledAt": "2026-11-13T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-007",
-    "title": "Start small",
-    "text": "A thoughtful self-care routine can start small.\nSmall moments count. Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Learn at your own pace",
+    "text": "Stay Young offers short lessons and clear guides you can explore at your own pace. Discover the course.\nPersonal experience, not medical advice.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #OnlineLearning",
     "audience": "all",
     "asset": "content/assets/simplicity.png",
     "alt": "Original skincare bottle illustration: Start small",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/simplicity.png",
+    "sourceFactIds": [
+      "format"
+    ],
     "platform": "threads",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "format"
     ],
     "scheduledAt": "2026-11-16T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-008",
-    "title": "Make room for care",
-    "text": "Choose habits that fit your everyday life.\nSmall moments count. Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "A personal approach to daily habits",
+    "text": "Stay Young shares its creator’s approach to small daily habits. Explore the routine and decide what interests you.\nPersonal experience, not medical advice.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #DailyHabits",
     "audience": "all",
     "asset": "content/assets/consistency.png",
     "alt": "Original glass of water illustration: Make room for care",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/consistency.png",
+    "sourceFactIds": [
+      "lifestyle"
+    ],
     "platform": "threads",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "lifestyle"
     ],
     "scheduledAt": "2026-11-18T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-009",
-    "title": "Your daily reset",
-    "text": "Take a moment for yourself today.\nSmall moments count. Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Mindset and daily routines",
+    "text": "Mindset is one of the topics inside Stay Young, alongside nutrition, sleep, and daily lifestyle routines.\nPersonal experience, not medical advice.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #DailyMindset",
     "audience": "all",
     "asset": "content/assets/reset.png",
     "alt": "Original botanical leaf illustration: Your daily reset",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/reset.png",
+    "sourceFactIds": [
+      "mindset",
+      "nutrition",
+      "sleep"
+    ],
     "platform": "threads",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "mindset",
+      "nutrition",
+      "sleep"
     ],
     "scheduledAt": "2026-11-20T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-010",
-    "title": "Time for yourself",
-    "text": "Make time for yourself this week.\nSmall moments count. Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Sweets, snacks, and drinks",
+    "text": "Interested in recipe ideas? Stay Young includes recipes for sweets, snacks, and drinks alongside its lifestyle content.\nPersonal experience, not medical advice.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #RecipeIdeas",
     "audience": "all",
     "asset": "content/assets/weekend.png",
     "alt": "Original open book illustration: Time for yourself",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/weekend.png",
+    "sourceFactIds": [
+      "recipes"
+    ],
     "platform": "threads",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "recipes"
     ],
     "scheduledAt": "2026-11-23T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-011",
-    "title": "A mindful morning",
-    "text": "Start your morning with intention.\nSmall moments count. Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "A look at the creator’s daily routine",
+    "text": "Stay Young shares a look at its creator’s routines from morning to night, including nutrition and everyday habits.\nPersonal experience, not medical advice.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #DailyHabits",
     "audience": "all",
     "asset": "content/assets/morning.png",
     "alt": "Original morning sun illustration: A mindful morning",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/morning.png",
+    "sourceFactIds": [
+      "daily-routine",
+      "nutrition"
+    ],
     "platform": "threads",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "daily-routine",
+      "nutrition"
     ],
     "scheduledAt": "2026-11-25T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-012",
-    "title": "Find your balance",
-    "text": "Make room for food, movement, rest, and care.\nSmall moments count. Explore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Digital access on your schedule",
+    "text": "Explore Stay Young on mobile, computer, or tablet, with lifetime access described in the course offer.\nPersonal experience, not medical advice.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #OnlineLearning",
     "audience": "all",
     "asset": "content/assets/balance.png",
     "alt": "Original colorful food plate illustration: Find your balance",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/balance.png",
+    "sourceFactIds": [
+      "access",
+      "lifetime-access"
+    ],
     "platform": "threads",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "access",
+      "lifetime-access"
     ],
     "scheduledAt": "2026-11-27T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-001",
-    "title": "A moment for yourself",
-    "text": "Make room for a simple self-care ritual.\nExplore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Nutrition and everyday habits",
+    "text": "Explore Stay Young: a digital course sharing its creator’s nutrition, sleep, fitness, and everyday lifestyle routines.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #NutritionHabits",
     "audience": "all",
     "asset": "content/assets/routine.png",
     "alt": "Original skincare bottle illustration: A moment for yourself",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/routine.png",
+    "sourceFactIds": [
+      "nutrition",
+      "sleep",
+      "fitness",
+      "lifestyle"
+    ],
     "platform": "bluesky",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "nutrition",
+      "sleep",
+      "fitness",
+      "lifestyle"
     ],
     "scheduledAt": "2026-11-02T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-002",
-    "title": "Self-care for men",
-    "text": "Self-care belongs in every man’s routine.\nExplore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Everyday wellness for men",
+    "text": "For men exploring everyday wellness: Stay Young shares its creator’s nutrition, fitness, and lifestyle routines.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #NutritionHabits",
     "audience": "men",
     "asset": "content/assets/men.png",
     "alt": "Original self-care mirror illustration: Self-care for men",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/men.png",
+    "sourceFactIds": [
+      "nutrition",
+      "fitness",
+      "lifestyle"
+    ],
     "platform": "bluesky",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "nutrition",
+      "fitness",
+      "lifestyle"
     ],
     "scheduledAt": "2026-11-04T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-003",
-    "title": "Self-care for women",
-    "text": "Self-care that fits your life.\nExplore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Everyday wellness for women",
+    "text": "For women exploring everyday wellness: Stay Young shares its creator’s nutrition, sleep, and lifestyle routines.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #NutritionHabits",
     "audience": "women",
     "asset": "content/assets/women.png",
     "alt": "Original self-care mirror illustration: Self-care for women",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/women.png",
+    "sourceFactIds": [
+      "nutrition",
+      "sleep",
+      "lifestyle"
+    ],
     "platform": "bluesky",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "nutrition",
+      "sleep",
+      "lifestyle"
     ],
     "scheduledAt": "2026-11-06T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-004",
-    "title": "Color your everyday",
-    "text": "Bring more variety to your everyday plate.\nExplore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Recipes and nutrition routines",
+    "text": "Stay Young includes recipes, nutrition topics, and a look at the foods its creator includes in a daily routine.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #RecipeIdeas",
     "audience": "all",
     "asset": "content/assets/nutrition.png",
     "alt": "Original colorful food plate illustration: Color your everyday",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/nutrition.png",
+    "sourceFactIds": [
+      "recipes",
+      "nutrition"
+    ],
     "platform": "bluesky",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "food variety"
+      "Stay Young",
+      "digital lifestyle course",
+      "recipes",
+      "nutrition"
     ],
     "scheduledAt": "2026-11-09T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-005",
-    "title": "Slow down tonight",
-    "text": "Make room for a gentler evening routine.\nExplore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Sleep and evening routines",
+    "text": "Curious about evening habits? Stay Young includes sleep-related topics and the creator’s personal routines.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #SleepRoutine",
     "audience": "all",
     "asset": "content/assets/rest.png",
     "alt": "Original moon and stars illustration: Slow down tonight",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/rest.png",
+    "sourceFactIds": [
+      "sleep",
+      "lifestyle"
+    ],
     "platform": "bluesky",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "sleep",
+      "lifestyle"
     ],
     "scheduledAt": "2026-11-11T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-006",
-    "title": "Move at your pace",
-    "text": "Move at your own pace. Choose what you enjoy.\nExplore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Fitness and lifestyle insights",
+    "text": "Explore the fitness and lifestyle insights inside Stay Young, drawn from its creator’s personal experience.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #EverydayFitness",
     "audience": "all",
     "asset": "content/assets/movement.png",
     "alt": "Original walking shoe illustration: Move at your pace",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/movement.png",
+    "sourceFactIds": [
+      "fitness",
+      "lifestyle"
+    ],
     "platform": "bluesky",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "movement"
+      "Stay Young",
+      "digital lifestyle course",
+      "fitness",
+      "lifestyle"
     ],
     "scheduledAt": "2026-11-13T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-007",
-    "title": "Start small",
-    "text": "A thoughtful self-care routine can start small.\nExplore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Learn at your own pace",
+    "text": "Stay Young offers short lessons and clear guides you can explore at your own pace. Discover the course.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #OnlineLearning",
     "audience": "all",
     "asset": "content/assets/simplicity.png",
     "alt": "Original skincare bottle illustration: Start small",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/simplicity.png",
+    "sourceFactIds": [
+      "format"
+    ],
     "platform": "bluesky",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "format"
     ],
     "scheduledAt": "2026-11-16T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-008",
-    "title": "Make room for care",
-    "text": "Choose habits that fit your everyday life.\nExplore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "A personal approach to daily habits",
+    "text": "Stay Young shares its creator’s approach to small daily habits. Explore the routine and decide what interests you.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #DailyHabits",
     "audience": "all",
     "asset": "content/assets/consistency.png",
     "alt": "Original glass of water illustration: Make room for care",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/consistency.png",
+    "sourceFactIds": [
+      "lifestyle"
+    ],
     "platform": "bluesky",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "lifestyle"
     ],
     "scheduledAt": "2026-11-18T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-009",
-    "title": "Your daily reset",
-    "text": "Take a moment for yourself today.\nExplore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Mindset and daily routines",
+    "text": "Mindset is one of the topics inside Stay Young, alongside nutrition, sleep, and daily lifestyle routines.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #DailyMindset",
     "audience": "all",
     "asset": "content/assets/reset.png",
     "alt": "Original botanical leaf illustration: Your daily reset",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/reset.png",
+    "sourceFactIds": [
+      "mindset",
+      "nutrition",
+      "sleep"
+    ],
     "platform": "bluesky",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "mindset",
+      "nutrition",
+      "sleep"
     ],
     "scheduledAt": "2026-11-20T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-010",
-    "title": "Time for yourself",
-    "text": "Make time for yourself this week.\nExplore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Sweets, snacks, and drinks",
+    "text": "Interested in recipe ideas? Stay Young includes recipes for sweets, snacks, and drinks alongside its lifestyle content.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #RecipeIdeas",
     "audience": "all",
     "asset": "content/assets/weekend.png",
     "alt": "Original open book illustration: Time for yourself",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/weekend.png",
+    "sourceFactIds": [
+      "recipes"
+    ],
     "platform": "bluesky",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "recipes"
     ],
     "scheduledAt": "2026-11-23T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-011",
-    "title": "A mindful morning",
-    "text": "Start your morning with intention.\nExplore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "A look at the creator’s daily routine",
+    "text": "Stay Young shares a look at its creator’s routines from morning to night, including nutrition and everyday habits.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #DailyHabits",
     "audience": "all",
     "asset": "content/assets/morning.png",
     "alt": "Original morning sun illustration: A mindful morning",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/morning.png",
+    "sourceFactIds": [
+      "daily-routine",
+      "nutrition"
+    ],
     "platform": "bluesky",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "daily-routine",
+      "nutrition"
     ],
     "scheduledAt": "2026-11-25T17:15:00.000Z",
     "timeZone": "America/New_York"
   },
   {
     "id": "sy-012",
-    "title": "Find your balance",
-    "text": "Make room for food, movement, rest, and care.\nExplore Stay Young.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare",
+    "title": "Digital access on your schedule",
+    "text": "Explore Stay Young on mobile, computer, or tablet, with lifetime access described in the course offer.\nhttps://ownyourglowup.com/im-40-years-old-i-look-20-v3/\n#SelfCare #OnlineLearning",
     "audience": "all",
     "asset": "content/assets/balance.png",
     "alt": "Original colorful food plate illustration: Find your balance",
     "imageUrl": "https://raw.githubusercontent.com/lahavpery/stay-young-automation/main/content/assets/balance.png",
+    "sourceFactIds": [
+      "access",
+      "lifetime-access"
+    ],
     "platform": "bluesky",
     "link": "https://ownyourglowup.com/im-40-years-old-i-look-20-v3/",
     "keywords": [
-      "self care",
-      "daily routine",
-      "wellness"
+      "Stay Young",
+      "digital lifestyle course",
+      "access",
+      "lifetime-access"
     ],
     "scheduledAt": "2026-11-27T17:15:00.000Z",
     "timeZone": "America/New_York"

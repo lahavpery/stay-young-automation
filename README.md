@@ -2,7 +2,7 @@
 
 Creates original-image posts in American English for women and men and schedules them on supported official APIs. No paid dependencies. No access to the course website, WordPress, WooCommerce, servers or checkout. No email, chatbot or CRM.
 
-Every post includes **exactly** `https://ownyourglowup.com/im-40-years-old-i-look-20-v3/`. The URL is never fetched by this system, shortened or changed; no tracking parameters are added. Only the owner-provided course name and general self-care messaging are used. There are no claims about curriculum, age reversal, price, refunds or results.
+Every post includes **exactly** `https://ownyourglowup.com/im-40-years-old-i-look-20-v3/`. The URL is never fetched by this system, shortened or changed; no tracking parameters are added. Course descriptions now use the owner-uploaded landing-page text, without accessing the website. Posts cover the described nutrition, sleep, recipes, fitness, mindset, learning format and access. The owner-provided offer is not independent evidence for health outcomes; no age-reversal, medical-result, testimonial, price or urgency claims are repeated. Source excerpts and exclusions are recorded in content/source-facts.json.
 
 ## Prepared workflow
 

@@ -2,35 +2,36 @@
 > stay-young-social-publisher@1.0.0 test
 > node test/publisher.test.js
 
-✔ 48 drafts have original PNGs, exact unmodified destination and inclusive audiences (25.175753ms)
-✔ platform-specific hashtags and optional channels fit limits (1.181018ms)
-✔ rejects unverified guarantees and age claims (5.515155ms)
-✔ US schedule respects both DST offsets and prevents the duplicate UTC slot (6.346328ms)
-✔ disabled publish command fails before any external request (77.000075ms)
-✔ stable identity prevents republishing the same editorial item after tracking/hosting changes (2.961871ms)
-✔ state persists reservation and confirmed result across worker restarts (2.271681ms)
-✔ ambiguous outcome blocks every new post on the same account after cooldown (0.871021ms)
-✔ optimistic SHA conflicts fail closed rather than overwrite state (1.160658ms)
-✔ same text/image fingerprint cannot be recycled under a different id (0.654336ms)
-✔ runner performs image check, durable reservation, publish, and confirmation in order (3.906462ms)
-✔ network failure after reservation cannot trigger automatic duplicate retry (1.783005ms)
-✔ schedule gate avoids every network call outside the approved US window (0.321174ms)
-✔ budget gate disallows private or unknown repository runner billing (0.315636ms)
-✔ image preflight permits original GitHub raster assets and never requests the landing site (20.118707ms)
-✔ official Facebook photo adapter includes exact destination link (1.000477ms)
-✔ official Pinterest adapter includes exact link, image, title and descriptive alternative text (0.618732ms)
-✔ official Threads waits for processed media before publishing (0.636178ms)
-✔ Bluesky uploads original image and uses a byte-correct clickable landing link facet (1.886201ms)
-✔ Mastodon optional adapter uploads art and publishes with exact link (1.289542ms)
-✔ provider authorization errors redact token and response body (0.303978ms)
-✔ cloud workflow has one-time approval gates, no website integration, and no email/chat processes (0.28554ms)
-✔ fixed destination cannot be replaced or decorated with tracking parameters (1.484104ms)
-✔ optional Instagram adapter sends the fixed link in the caption (2.705845ms)
-ℹ tests 24
+✔ 48 drafts have original PNGs, exact unmodified destination and inclusive audiences (17.458298ms)
+✔ platform-specific hashtags and optional channels fit limits (1.890393ms)
+✔ rejects unverified guarantees and age claims (1.987429ms)
+✔ US schedule respects both DST offsets and prevents the duplicate UTC slot (5.603029ms)
+✔ disabled publish command fails before any external request (40.197242ms)
+✔ stable identity prevents republishing the same editorial item after tracking/hosting changes (3.270382ms)
+✔ state persists reservation and confirmed result across worker restarts (1.784815ms)
+✔ ambiguous outcome blocks every new post on the same account after cooldown (0.78736ms)
+✔ optimistic SHA conflicts fail closed rather than overwrite state (0.70732ms)
+✔ same text/image fingerprint cannot be recycled under a different id (0.444366ms)
+✔ runner performs image check, durable reservation, publish, and confirmation in order (3.547718ms)
+✔ network failure after reservation cannot trigger automatic duplicate retry (2.051505ms)
+✔ schedule gate avoids every network call outside the approved US window (0.26709ms)
+✔ budget gate disallows private or unknown repository runner billing (0.264887ms)
+✔ image preflight permits original GitHub raster assets and never requests the landing site (17.647473ms)
+✔ official Facebook photo adapter includes exact destination link (1.217265ms)
+✔ official Pinterest adapter includes exact link, image, title and descriptive alternative text (1.672187ms)
+✔ official Threads waits for processed media before publishing (0.852829ms)
+✔ Bluesky uploads original image and uses a byte-correct clickable landing link facet (1.16123ms)
+✔ Mastodon optional adapter uploads art and publishes with exact link (2.318675ms)
+✔ provider authorization errors redact token and response body (0.291477ms)
+✔ cloud workflow has one-time approval gates, no website integration, and no email/chat processes (0.258928ms)
+✔ fixed destination cannot be replaced or decorated with tracking parameters (1.948741ms)
+✔ optional Instagram adapter sends the fixed link in the caption (0.908301ms)
+✔ course-specific copy is grounded in owner-uploaded facts without repeating health outcomes (2.750022ms)
+ℹ tests 25
 ℹ suites 0
-ℹ pass 24
+ℹ pass 25
 ℹ fail 0
 ℹ cancelled 0
 ℹ skipped 0
 ℹ todo 0
-ℹ duration_ms 171.232442
+ℹ duration_ms 121.197144

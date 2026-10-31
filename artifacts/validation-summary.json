@@ -1,5 +1,5 @@
 {
-  "localTestsPassed": 24,
+  "localTestsPassed": 25,
   "remoteImagesVerified": 12,
   "mainUploaded": true,
   "cloudWorkflowExecutionVerified": false,
@@ -7,5 +7,7 @@
   "realSocialPostsPublished": 0,
   "fixedLinkPreserved": true,
   "websiteAccessRequired": false,
-  "liveAutomationEnabled": false
+  "liveAutomationEnabled": false,
+  "courseCopySource": "Owner-uploaded landing-page text",
+  "courseWebsiteFetchedForThisUpdate": false
 }

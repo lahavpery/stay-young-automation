@@ -29,3 +29,7 @@ There is no analytics tracking or attribution system. The fixed link is never ch
 ## Validation boundaries
 
 The local suite verifies all default posting paths with mocked provider responses, US scheduling across DST, one-time approval, durable reservation restart/conflict behavior, link integrity, content limits, safety claims and original-image integrity. It does not prove provider app review, remote permissions, OAuth/token validity, cloud execution or actual social publication. Those remain unverified until the required secure account connections are available. No real post has been published.
+
+## Owner-supplied course description
+
+The owner supplied the landing-page text as an attachment. Use content/source-facts.json for allowed descriptive topics. This is owner-provided marketing information, not independent evidence of effects. Preserve the fixed destination and never fetch the website. Do not repeat age-transformation claims, hair-restoration claims, deficiency/inflammation claims, testimonial outcomes, enrollment totals or changing-price urgency. Stay Young remains the owner-selected brand, although the supplied offer also calls the product Natural Youth Blueprint. No separate product or rebranding is inferred.
